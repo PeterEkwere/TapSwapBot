@@ -1,9 +1,9 @@
 {
-    "api_id": 8086441,
-    "api_hash": "2a305482a93b5a762d2acd4be90dd00f",
-    "admin": 6135970338,
+    "api_id": 21979508,
+    "api_hash": "48589c3d647d068c410c69d98287e00f",
+    "admin": 6199072043,
     "auto_upgrade": false,
     "max_charge_level": 5,
     "max_energy_level": 10,
-    "max_tap_level": 10
+    "max_tap_level": 20
 }
